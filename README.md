@@ -53,7 +53,7 @@ Invalid or duplicate lines are skipped with a message, and the rest of the file 
 
 ## Connecting it to my AI chatbot
 I later built an AI support bot for this library:
-[library-support-bot](https://github.com/dealmaker69/library-support-bot).
+[library-support-bot](https://github.com/ddiputado/library-support-bot).
 To connect the two, I added an **"Export for Chatbot"** option (12). It writes one sentence
 per book (title, author, availability, how many times it was borrowed and its rating), a
 full catalogue line and the totals, and the chatbot searches that file to answer questions
