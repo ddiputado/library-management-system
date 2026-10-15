@@ -1,0 +1,8 @@
+100000000001|Jane Austen|Pride and Prejudice|978-0-14-143951-8
+100000000002|George Orwell|Nineteen Eighty-Four|978-0-45-152493-5
+100000000003|Mary Shelley|Frankenstein|978-0-48-628211-4
+100000000004|Herman Melville|Moby Dick|978-1-50-317280-0
+100000000005|Leo Tolstoy|War and Peace|978-1-40-007998-8
+100000000006|Fyodor Dostoevsky|Crime and Punishment|978-0-14-305814-4
+100000000007|Charles Dickens|Great Expectations|978-0-14-143956-3
+100000000008|Homer|The Odyssey|978-0-14-026886-7
